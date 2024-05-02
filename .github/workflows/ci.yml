@@ -53,7 +53,6 @@ jobs:
         run: |
           dotnet build OTAPI.Mods.sln
           (cd OTAPI.Patcher/bin/Debug/net8.0 && exec dotnet run --project ../../../OTAPI.Patcher.csproj -patchTarget=${{ matrix.profile.patch_target }} -latest=n --framework net8.0)
-          dotnet build OTAPI.Server.Launcher.sln
           
       - uses: actions/upload-artifact@v3
         with:
