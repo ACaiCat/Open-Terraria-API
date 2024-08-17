@@ -181,7 +181,6 @@ public static partial class PatchTargetExtensions
         {
             return onApplying(modType, modder);
         };
-
         target.ModContext.OnApply += OnApplying;
         try
         {
