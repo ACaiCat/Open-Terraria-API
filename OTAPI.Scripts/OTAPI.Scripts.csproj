@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <PreserveCompilationReferences>true</PreserveCompilationReferences>
     <PreserveCompilationContext>true</PreserveCompilationContext>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
@@ -32,7 +32,7 @@
   <ItemGroup>
     <ProjectReference Include="..\FNA\FNA.Core.csproj" />
     <PackageReference Include="ModFramework" Version="1.1.7" />
-    <PackageReference Include="MonoMod" Version="22.5.1.1" />
+    <PackageReference Include="MonoMod" Version="22.7.31.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Steamworks.NET" Version="20.1.0" />
   </ItemGroup>
