@@ -12,6 +12,7 @@
     <PackageReference Include="MonoMod" Version="22.7.31.1" />
     <PackageReference Include="MonoMod.RuntimeDetour" Version="25.1.2" />
     <PackageReference Include="MonoMod.RuntimeDetour.HookGen" Version="22.7.31.1" />
+    <PackageReference Include="MonoMod.Utils" Version="25.0.6" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 

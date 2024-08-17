@@ -18,6 +18,7 @@
     <PackageReference Include="MonoMod" Version="22.7.31.1" />
     <PackageReference Include="MonoMod.RuntimeDetour" Version="25.1.2" />
     <PackageReference Include="MonoMod.RuntimeDetour.HookGen" Version="22.7.31.1" />
+    <PackageReference Include="MonoMod.Utils" Version="25.0.6" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Security.Permissions" Version="6.0.0" />
     <PackageReference Include="Steamworks.NET" Version="20.1.0" />
