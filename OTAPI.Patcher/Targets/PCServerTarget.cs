@@ -102,7 +102,7 @@ public class PCServerTarget : IServerPatchTarget
             {
                 "ModFramework.dll",
                 "MonoMod.dll",
-                //"MonoMod.Utils.dll",
+                "MonoMod.Utils.dll",
                 "MonoMod.RuntimeDetour.dll",
                 "Mono.Cecil.dll",
                 "Mono.Cecil.Rocks.dll",

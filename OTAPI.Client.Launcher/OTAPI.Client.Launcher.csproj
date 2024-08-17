@@ -35,8 +35,6 @@
 		<PackageReference Include="Material.Avalonia" Version="2.5.1" />
 		<PackageReference Include="Mono.Cecil" Version="0.11.5" />
 		<PackageReference Include="MonoMod" Version="22.7.31.1" />
-		<PackageReference Include="MonoMod.RuntimeDetour" Version="25.1.2" />
-		<PackageReference Include="MonoMod.Utils" Version="25.0.6" />
 		<PackageReference Include="Projektanker.Icons.Avalonia.FontAwesome" Version="5.5.0" />
 		<PackageReference Include="ReactiveUI" Version="18.3.1" />
 		<PackageReference Include="System.Reactive.Linq" Version="5.0.0" />
@@ -56,7 +54,6 @@
 		<PackageReference Include="ModFramework.Modules.ClearScript" Version="1.1.7" GeneratePathProperty="true" />
 		<PackageReference Include="ModFramework.Modules.CSharp" Version="1.1.7" GeneratePathProperty="true" />
 		<PackageReference Include="ModFramework.Modules.Lua" Version="1.1.7" GeneratePathProperty="true" />
-		<PackageReference Include="MonoMod.RuntimeDetour.HookGen" Version="22.7.31.1" />
 		<PackageReference Include="SharpZipLib" Version="1.4.0" />
 		<PackageReference Include="System.Collections.Specialized" Version="4.3.0" />
 		<PackageReference Include="System.Drawing.Primitives" Version="4.3.0" />
