@@ -19,14 +19,14 @@
     <PackageReference Include="ModFramework.Modules.CSharp" Version="1.1.7" />
     <PackageReference Include="ModFramework.Modules.Lua" Version="1.1.7" />
     <PackageReference Include="MonoMod" Version="22.7.31.1" />
-    <PackageReference Include="MonoMod.RuntimeDetour" Version="25.0.0" />
+    <PackageReference Include="MonoMod.RuntimeDetour" Version="25.1.2" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Steamworks.NET" Version="20.1.0" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.1" />
     <PackageReference Include="System.IO.Packaging" Version="6.0.0" />
     <PackageReference Include="System.Security.Permissions" Version="6.0.0" />
-    <PackageReference Include="Mono.Cecil" Version="0.11.4" />
-    <PackageReference Include="MonoMod.RuntimeDetour.HookGen" Version="22.5.1.1" />
+    <PackageReference Include="Mono.Cecil" Version="0.11.5" />
+    <PackageReference Include="MonoMod.RuntimeDetour.HookGen" Version="22.7.31.1" />
   </ItemGroup>
 
   <ItemGroup>
