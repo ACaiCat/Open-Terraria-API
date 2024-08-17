@@ -14,7 +14,7 @@
     <PackageReference Include="ModFramework.Modules.ClearScript" Version="1.1.7" />
     <PackageReference Include="ModFramework.Modules.CSharp" Version="1.1.7" />
     <PackageReference Include="ModFramework.Modules.Lua" Version="1.1.7" />
-    <PackageReference Include="MonoMod.RuntimeDetour" Version="25.1.1" />
+    <PackageReference Include="MonoMod.RuntimeDetour" Version="25.1.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Security.Permissions" Version="6.0.0" />
     <PackageReference Include="Steamworks.NET" Version="20.1.0" />
